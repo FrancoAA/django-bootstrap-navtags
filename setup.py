@@ -13,9 +13,9 @@ setup(
     description='Navigation templatetags for django with twitter bootstrap.',
     long_description=read('README.md'),
     license='MIT License',
-    author='Richard Stromer',
+    author='Richard Stromer modified by Franco Alarcon',
     author_email='noxan@byteweaver.org',
-    url='https://github.com/noxan/django-bootstrap-navtags',
+    url='https://github.com/FrancoAA/django-bootstrap-navtags',
     packages=find_packages(),
     install_requires=[
         'django',
